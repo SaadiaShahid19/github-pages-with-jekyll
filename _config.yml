@@ -1,13 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "Life Lessons"
+date: 2020-12-20
+---
+
+theme: minima
+title: Life Lessons
+author: Dee
+email: example@something.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Important life lessons inclusing life hacks and ways to succeed.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: nef_saaid # DO NOT include the @ character, or else the build will fail!
+github_username:  SaadiaShahid19 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
